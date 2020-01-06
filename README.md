@@ -1,4 +1,4 @@
-# fashion-mnist-predictions
+# fashion-mnist-classifier
 
 These are the results of a fun Kaggle competition I competed in for my machine learning class. The assignment was to correctly classify images from the [Fashion-MNIST](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/) dataset, which is comprised of various articles of clothing.
 
